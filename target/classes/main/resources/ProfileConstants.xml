@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+<microsoftlogo>//*[@id='uhfLogo']</microsoftlogo>
+<clickonsign>//*[@id='profile']</clickonsign>
+<clickonsigninwithgoogle>//*[@id='content']/div/div/section/div/div[2]/div[1]/ul/li[4]/a/div[2]</clickonsigninwithgoogle>
+<signinwithgoogleemailorphone>//*[@id='identifierId'] </signinwithgoogleemailorphone>
+<signinwithgoogleemailvalue>prospectqa365@gmail.com </signinwithgoogleemailvalue>
+<clickonsigninwithgooglenextbutton>//*[@id='identifierNext']</clickonsigninwithgooglenextbutton>
+<signinwithgooglepassword>//*[@id='password']/div[1]/div/div[1]/input</signinwithgooglepassword>
+<signinwithgooglepasswordsendvalue>Phenom@123</signinwithgooglepasswordsendvalue>
+<clickonsigninwithgooglepasswordnextbutton>//*[@id='passwordNext']/content</clickonsigninwithgooglepasswordnextbutton>
+<clickonprofile>//*[@id='candidate-details']/li[1]/a</clickonprofile>
+<profilelink>//*[@id='profile-nav']/li[1]/a/ppc-content</profilelink>
+<clickoneditprofile>//*[@id='profile']/div[2]/div[1]/div[2]/div/div[2]/div/div[2]/div[2]/div/a</clickoneditprofile>
+<firstname>//*[@id='firstName']</firstname>
+<firstnamesendvalue>Phenom</firstnamesendvalue>
+<middlename>//*[@id='middleName']</middlename>
+<middlenamesendvalue>qa</middlenamesendvalue>
+<lastname>//*[@id='lastName']</lastname>
+<lastnamesendvalue>People</lastnamesendvalue>
+<preferredname>//*[@id='preferred']</preferredname>
+<preferrednamesendvalue>PP</preferrednamesendvalue>
+<professionaltitle>//*[@id='professionalTitle']</professionaltitle>
+<professionaltitlesendvalue>Analyst</professionaltitlesendvalue>
+<phonenumberdropdownzero>//*[@id='phoneNumberTypes0']</phonenumberdropdownzero>
+<phonenumberzero>//*[@id='phoneNumber0']</phonenumberzero>
+<phonenumberzerosendvalue>0000000000</phonenumberzerosendvalue>
+<clickonaddphenonumberlink>//*[@id='profileForm']/div[2]/div[2]/div/div/section/div[5]/div[2]/ppc-content/a/span</clickonaddphenonumberlink>
+<phenonumberdropdownone>//*[@id='phoneNumberTypes1']</phenonumberdropdownone>
+<phonenumberone>//*[@id='phoneNumber1']</phonenumberone>
+<phenonumberonesendvalue>1111111111</phenonumberonesendvalue>
+<streetaddressdropdownone>//*[@id='streetAddress0']</streetaddressdropdownone>
+<streetaddressfieldone>//*[@id='streetAddressFiled0']</streetaddressfieldone>
+<streetaddressfieldonesendvalue>Hitech city</streetaddressfieldonesendvalue>
+<streetaddresslineone>//*[@id='streetAddressline20']</streetaddresslineone>
+<streetaddresslineonesendvalue>Hitech City 1</streetaddresslineonesendvalue>
+<streetcityone>//*[@id='city0']</streetcityone>
+<streetcityonesendvalue>Hyderabad</streetcityonesendvalue>
+<streetziporpostalcodeone>//*[@id='zip/postalCode0']</streetziporpostalcodeone>
+<streetziporpotalcodeonesendvalue>50000</streetziporpotalcodeonesendvalue>
+<streetcountrydropdownone>//*[@id='country0']</streetcountrydropdownone>
+<streetstateorprovincedropdownone>//*[@id='state/province0']</streetstateorprovincedropdownone>
+<streetcountyone>//*[@id='county0']</streetcountyone>
+<streetcountysendvalueone>County 1</streetcountysendvalueone>
+<clickonaddstreetaddress>//*[@id='profileForm']/div[2]/div[2]/div/div/section/div[6]/div[2]/ppc-content/a/span</clickonaddstreetaddress>
+<streetaddressdropdowntwo>//*[@id='streetAddress1']</streetaddressdropdowntwo>
+<streetaddressfieldtwo>//*[@id='streetAddressFiled1']</streetaddressfieldtwo>
+<streetaddressfieldtwosendvalue>Madhapur</streetaddressfieldtwosendvalue>
+<streetaddresslinetwo>//*[@id='streetAddressline21']</streetaddresslinetwo>
+<streetaddresslinetwosendvalue>Madahpur 1</streetaddresslinetwosendvalue>
+<streetcitytwo>//*[@id='city1']</streetcitytwo>
+<streetcitytwosendvalue>Vijaywada</streetcitytwosendvalue>
+<streetziporpostalcodetwo>//*[@id='zip/postalCode1']</streetziporpostalcodetwo>
+<streetziporpostalcodetwosendvalue>500081</streetziporpostalcodetwosendvalue>
+<streetcountrydropdowntwo>//*[@id='country1']</streetcountrydropdowntwo>
+<streetstateorprovincetwo>//*[@id='state/province1']</streetstateorprovincetwo>
+<streetcountytwo>//*[@id='county1']</streetcountytwo>
+<streetcountytwosendvalue>County 2</streetcountytwosendvalue>
+<clickonaddstreetaddressone>//*[@id='profileForm']/div[2]/div[2]/div/div/section/div[6]/div[3]/ppc-content/a/span</clickonaddstreetaddressone>
+<streetaddressdropdownthree>//*[@id='streetAddress2']</streetaddressdropdownthree>
+<streetaddressfieldthree>//*[@id='streetAddressFiled2']</streetaddressfieldthree>
+<streetaddressfieldthreesendvalue>Kodhapur</streetaddressfieldthreesendvalue>
+<streetaddresslinethree>//*[@id='streetAddressline22']</streetaddresslinethree>
+<streetaddresslinethreesendvalue>Kodhapur 1</streetaddresslinethreesendvalue>
+<streetcitythree>//*[@id='city2']</streetcitythree>
+<streetcitythreesendvalue>VZG</streetcitythreesendvalue>
+<streetziporpostalcodethree>//*[@id='zip/postalCode2']</streetziporpostalcodethree>
+<streetziporpostalcodethreesendvalue>500083</streetziporpostalcodethreesendvalue>
+<streetcountrydropdownthree>//*[@id='country2']</streetcountrydropdownthree>
+<streetstateorprovincedropdownthree>//*[@id='state/province2']</streetstateorprovincedropdownthree>
+<streetcountythree>//*[@id='county2']</streetcountythree>
+<streetcountythreesendvalue>County 3</streetcountythreesendvalue>
+<websiteurlone>//*[@id='website0']</websiteurlone>
+<websiteurlonesendvalue>www.gmail.com</websiteurlonesendvalue>
+<clickonaddurl>//*[@id='profileForm']/div[2]/div[2]/div/div/section/div[8]/ppc-content/a/span</clickonaddurl>
+<websiteurltwo>//*[@id='website1']</websiteurltwo>
+<websiteurltwosendvalue>www.google.com</websiteurltwosendvalue>
+<byclickingthisyouagreetomicrosoftcheckbox>//*[@id='profileForm']/div[7]/div/div/div[2]/label/span[1]</byclickingthisyouagreetomicrosoftcheckbox>
+<clickonsavebutton>//*[@id='profileForm']/div[7]/div/div/div[3]/button[2]</clickonsavebutton>
+<comapanyname>//*[@id='companyName0']</comapanyname>
+<companynamesendvalue>Amazon</companynamesendvalue>
+<jobtitle>//*[@id='jobTitle0']</jobtitle>
+<jobtitlesendvalue>Software Engineer</jobtitlesendvalue>
+<experiencestartdatedropdown>//*[@id='experienceStartDate0']</experiencestartdatedropdown>
+<experiencestartyear>//*[@id='experianceStartYear0']</experiencestartyear>
+<experiencestartyearsendvalue>2010</experiencestartyearsendvalue>
+<experienceenddatedropdown>//*[@id='experianceEndDate0']</experienceenddatedropdown>
+<experienceendyear>//*[@id='experienceEndYear0']</experienceendyear>
+<experienceendyearssendvalue>2020</experienceendyearssendvalue>
+<description>//*[@id='experienceDescription0']</description>
+<descriptionsendvalue>Description add</descriptionsendvalue>
+<companynameone>//*[@id='companyName1']</companynameone>
+<companynamesendvalueone>Flipkart</companynamesendvalueone>
+<Jobtilteone>//*[@id='jobTitle1']</Jobtilteone>
+<jobtitlesendvalueone>Senior Software Engineer</jobtitlesendvalueone>
+<experiencestartdatedropdownone>//*[@id='experienceStartDate1']</experiencestartdatedropdownone>
+<experiencestartyearone>//*[@id='experianceStartYear1']</experiencestartyearone>
+<experiencestartyearsendvalueone>2011</experiencestartyearsendvalueone>
+<experienceenddatedropdownone>//*[@id='experianceEndDate1']</experienceenddatedropdownone>
+<experienceendyearone>//*[@id='experienceEndYear1']</experienceendyearone>
+<experienceendyearssendvalueone>2021</experienceendyearssendvalueone>
+<descriptionone>//*[@id='experienceDescription1']</descriptionone>
+<descriptionsendvalueone>Description add1</descriptionsendvalueone>
+<clickonschoolzero>//*[@id='school0']</clickonschoolzero>
+<clickonsearch>//*[@id='search']</clickonsearch>
+<schoolzerosendvalue>IIT Stuart School of Business</schoolzerosendvalue>
+<itemeselected>//*[@id='item0']/a</itemeselected>
+<educationstateorprovincezero>//*[@id='educationState/province0']</educationstateorprovincezero>
+<datesattendedzero>//*[@id='datesAttended0']</datesattendedzero>
+<datesendedzero>//*[@id='datesEnded0']</datesendedzero>
+<clickonfieldofstudy>//*[@id='fieldOfStudy']</clickonfieldofstudy>
+<filedofstudyonesendvalue>Finance</filedofstudyonesendvalue>
+<levelofeducationdropdown>//*[@id='lvlOfEdu1']</levelofeducationdropdown>
+</profile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="10" name="Failed suite [MicroSoftTestCases]">
+  <parameter name="browser" value="firefox"/>
+  <test name=" ProfileTest(failed)">
+    <classes>
+      <class name="test.java.msft.testcases.ProfileTestCases">
+        <methods>
+          <include name="setUp"/>
+          <include name="testUpdatecontactinformationdetails"/>
+        </methods>
+      </class> <!-- test.java.msft.testcases.ProfileTestCases -->
+    </classes>
+  </test> <!--  ProfileTest(failed) -->
+</suite> <!-- Failed suite [MicroSoftTestCases] -->

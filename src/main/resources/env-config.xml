@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+	<applicationurl>https://careersppe.microsoft.com</applicationurl>
+	<!-- <dburl>jdbc:mysql://192.168.2.239:3307/rep_db</dburl>
+	<dbusrname>root</dbusrname>
+	<dbpassword>12345</dbpassword> -->
+	<!-- <url>https://careersuat.microsoft.com> -->
+	<!-- <url>https://careersdev.microsoft.com -->
+</environment>
